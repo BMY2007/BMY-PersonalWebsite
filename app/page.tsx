@@ -47,7 +47,7 @@ export default function HomePage() {
 
       {/* Projects 项目展示区 */}
       <div className="py-20 px-6 max-w-6xl mx-auto">
-        <h2 className="text-3xl font-bold mb-10 text-center">My Projects</h2>
+        <h2 className="text-3xl font-bold mb-10 text-center">体验模块</h2>
         <div className="grid md:grid-cols-3 gap-6">
           {/* 项目卡片 1 */}
           <motion.div
